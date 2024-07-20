@@ -1,2 +1,2 @@
 # games__unity__a-car
-pointless racing games, just to implement physics
+Pointless racing game, just to try and implement car physics, as a compromise between real physics and playability.  
